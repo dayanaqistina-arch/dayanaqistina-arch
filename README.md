@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Dayana Qistina! 👋
 
-<!--
-**dayanaqistina-arch/dayanaqistina-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First-Year Computer Science Student** at **Universiti Teknologi Malaysia (UTM)**  
+💡 Passionate about learning new technologies and building useful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Skills
+
+- **Programming Languages:** Python, Java
+- **Database Management:** SQL
+- **Web Development:** HTML
+
+---
+
+### 📈 GitHub Stats
+
+![Dayana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayanaqistina-arch&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayanaqistina-arch&layout=compact&theme=radial)
+
+---
+
+📫 **Connect with me:**
+- **Email:** [Your Email Here]
+- **LinkedIn:** [Your LinkedIn Profile URL]
